@@ -92,7 +92,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <div className="container">
-            <h1>Infinite Scroll without pagination in api</h1>
+            <h1>Infinite Scroll without page count in api</h1>
             <h3>Fetching 500 users data at once and showing them on scroll</h3>
             <img src={img} alt="react_logo" style={{ width: "8%" }} />
             <p>
