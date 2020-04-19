@@ -1,4 +1,4 @@
-# React Infinite Scroll without pagination in api.
+# React Infinite Scroll without page count in api.
 
  used npm package: _**[react-infinite-scroll-component](https://www.npmjs.com/package/react-infinite-scroll-component)**_ <br/>
 
