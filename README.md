@@ -1,2 +1,5 @@
-# react-infinite-scroll-without-pagination
 # React Infinite Scroll without pagination in api.
+
+ used npm package: _**[react-infinite-scroll-component](https://www.npmjs.com/package/react-infinite-scroll-component)**_ <br/>
+
+_**At first fetching all 500 users data, then showing them on page scroll**_
