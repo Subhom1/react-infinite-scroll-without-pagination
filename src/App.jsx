@@ -81,7 +81,7 @@ class App extends Component {
       finalUsers &&
       finalUsers.map((item, i) => {
         return (
-          <div className="card m-3" key={i}>
+          <div className="card m-3 col-lg-2 p-0" key={i}>
             <div className="card-body">
               <img src={item.picture.large} alt="" />
             </div>
